@@ -1,0 +1,19 @@
+# Operating system files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code local settings
+
+.vscode/
+
+# Temporary files
+
+*.tmp
+*.log
+
+# Dependencies (if added in the future)
+
+node_modules/
+vendor/
